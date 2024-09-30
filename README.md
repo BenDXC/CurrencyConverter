@@ -10,7 +10,6 @@ It is a CLI interface
 |
 |- src
 |  |- main.java
-|  |- currencycodes.java
 |  |- HTTPRequest.java
 |- README.md
 |- requirements.txt
